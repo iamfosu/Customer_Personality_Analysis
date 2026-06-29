@@ -47,3 +47,10 @@ Here is how I resolved these issues step-by-step in the Jupyter Notebook (`analy
 
 ## Key Takeaways
 By completing this task, I gained practical experience in handling common data issues independently. Fixing data types, standardizing text inputs, and handling missing data points logically are critical safeguards—because the insights you get out of your charts are only as good as the data you put in.
+
+## Developer Details
+* **Name:** Md. Tarakuzzaman Faysal
+* **Background:** Computer Science & Engineering
+* **Focus Area:** Data Science, Machine Learning, & Business Intelligence (SQL, Power BI, Python)
+* **LinkedIn:** https://www.linkedin.com/in/tfaysal
+* **GitHub:** [iamfosu](https://github.com/iamfosu)
